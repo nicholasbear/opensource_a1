@@ -1,0 +1,22 @@
+{
+  "name": "opensource_a1",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholasbear/opensource_a1.git"
+  },
+  "bin":{
+    "stat": "./main.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholasbear/opensource_a1/issues"
+  },
+  "homepage": "https://github.com/nicholasbear/opensource_a1#readme"
+}
