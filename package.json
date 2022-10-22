@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/nicholasbear/opensource_a1.git"
   },
-  "bin":{
+  "bin": {
     "stat": "./main.js"
   },
   "author": "",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/nicholasbear/opensource_a1/issues"
   },
-  "homepage": "https://github.com/nicholasbear/opensource_a1#readme"
+  "homepage": "https://github.com/nicholasbear/opensource_a1#readme",
+  "devDependencies": {
+    "jest": "^29.2.1"
+  }
 }
